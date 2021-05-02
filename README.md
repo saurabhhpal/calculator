@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This application is simple application of calculator which performs  = , - , * and / , further there is no css used and 
+basically helps to understand use of hooks in react.
+
 ## Available Scripts
 
 In the project directory, you can run:

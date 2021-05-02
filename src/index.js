@@ -4,6 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+function Display(){
+  return(
+  <textarea>
+    
+  </textarea>
+  );
+}
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
